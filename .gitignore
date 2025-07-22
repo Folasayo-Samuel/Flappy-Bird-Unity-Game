@@ -1,0 +1,53 @@
+# =============== Unity Generated Files ===============
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# =============== Unity Cache ===============
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+
+# =============== OS-specific Files ===============
+.DS_Store
+Thumbs.db
+
+# =============== Rider / VS Code / JetBrains ===============
+.idea/
+.vscode/
+*.sln
+*.csproj
+
+# =============== Auto-generated folders ===============
+/ExportedObj/
+.consulo/
+/*.booproj
+*.svd
+*.pdb
+
+# =============== Crash Reports ===============
+sysinfo.txt
+
+# =============== Package Manager ===============
+Packages/packages-lock.json
+
+# =============== Builds ===============
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.ipa
+*.exe
+
+# Optional: Ignore user settings (optional)
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
